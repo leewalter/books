@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Example site</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <div class="tint">
+    <header>
+      <section>
+        <h1>Example site title</h1>
+        <p class="subtitle">A subtitle to give more descriptiom and context</p>
+      </section>
+    </header>
+  </div>
+
+  <main>
+    <section>
+      <h2>More context</h2>
+      <p>
+        Content sections can give more context about this example. A little description can be helpful.
+      </p>
+      <p>
+        These sections might not all be on the home page of the examples site. We might use any of the content on this pages in different places on our example sites. But things like a common footer and some common language to set expectations about the DTN button might be useful.
+      </p>
+    </section>
+    <section>
+      <h2>Try this for yourself</h2>
+      <p>
+        To quickly experiment with this example, you can click the button below. Clicking the button will clone <a href="https://github.com/netlify/example-site-boilerplate">this test site repo</a>, setup a new site <a href="https://netlify.com">on Netlify</a> and deploy the site complete with Netlify's CI/CD pipeline configured and operational.
+      </p>
+      <p>
+        <a class="naked" href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/example-site-boilerplate"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <section>
+      Made with <img class="netliheart" title="love" src="/images/netliheart.svg" alt="love" width="1em"> by the <a href="https://netlify.com">Netlify</a> team. Explore <a href="https://github.com/netlify/example-site-boilerplate">the code</a> in GitHub. Follow <a href="https://twitter.com/netlify">@Netliify</a> on Twitter for regular updates</a>.
+    </section>
+  </footer>
+
+
+  <!-- Browser-sync support for local development -->
+  <script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.26.7'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+</body>
+</html>
+

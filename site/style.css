@@ -1,0 +1,87 @@
+:root {
+  --accent-color: #89fff5;
+  --tint-color: #f0f7fa;
+}
+
+::selection{
+  background:rgba(0,0,0,0.08);
+}
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--tint-color);
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #555;
+  line-height: 1.7;
+  border-top: solid 6px var(--accent-color);
+  background-color: #fff;
+}
+
+header,
+main,
+footer {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 2rem 2rem;
+}
+footer {
+  border-top: solid 1px var(--tint-color);
+  font-size: 0.8rem;
+}
+
+section {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.tint {
+  background-color: var(--tint-color);
+}
+
+h1, h2, h3 {
+  margin:0;
+  padding: 1rem 0 0;
+  line-height: 1.2;
+  color: #000;
+}
+h1 {
+  font-size: 3rem;
+}
+.subtitle {
+  margin:0;
+  padding:0;
+  font-size: 1.2rem;
+}
+
+a:link,
+a:visited {
+  color: #000;
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: var(--accent-color);
+}
+a:hover,
+a:focus {
+  background-color: var(--accent-color);
+}
+a.naked:link,
+a.naked:visited,
+a.naked:hover,
+a.naked:focus {
+  border-bottom-style:none;
+  background-color: transparent;
+}
+
+
+.netliheart {
+  margin-bottom:-0.1rem;
+  width: 1rem;
+}

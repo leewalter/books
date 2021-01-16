@@ -1,0 +1,22 @@
+{
+  "name": "example-site-boilerplate",
+  "version": "0.1.0",
+  "description": "A collection of common content pieces and boilerplate design and assets for use by the Netlify DX team (or anyone, although the content will be rather Netli-centric) when creating example and demo sites.",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netlify/example-site-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Netlify DX <devex@netlify.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netlify/example-site-boilerplate/issues"
+  },
+  "homepage": "https://github.com/netlify/example-site-boilerplate#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
