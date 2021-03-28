@@ -6,5 +6,7 @@ One of my best investments is BOOKs, so like to share some books, comments, sugg
 3. [Book review for Learn Kubernetes Security.pdf by Kaizhe Huang and Pranjal Jumde](https://github.com/leewalter/books/blob/master/reviews/Book%20review%20for%20Learn%20Kubernetes%20Security.pdf)
 4. [Book review – AWS for Solution Architects by Alberto Artasanchez](https://github.com/leewalter/books/blob/master/reviews/AWS%20Solution%20Architect%20Book%20review.pdf)
 5. [Book review - Kubernetes in Production book by Aly and Murat](https://github.com/leewalter/books/blob/master/reviews/Book%20review%20-%20Kubernetes%20in%20Production%20book%20by%20Aly%20and%20Murat.pdf)
+6. [Book review - Production Kubernetes: Building Successful Application Platforms 1st Edition
+by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (Author)](https://github.com/leewalter/books/blob/master/reviews/Production%20Kubernetes%20book%20by%20Josh%20Alex%20Rich%20and%20John.pdf)
 ---
 
