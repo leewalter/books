@@ -9,5 +9,6 @@ One of my best investments is BOOKs, so like to share some books, comments, sugg
 6. [Book review - Production Kubernetes: Building Successful Application Platforms 1st Edition
 by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (Author)](https://github.com/leewalter/books/blob/master/reviews/Production%20Kubernetes%20book%20by%20Josh%20Alex%20Rich%20and%20John.pdf)
 7. [Book review – Infrastructure Monitoring with Amazon CloudWatch: Effectively monitor your AWS infrastructure to optimize resource allocation, detect anomalies, and set automated actions By Ewere Diagboya (Author)](https://github.com/leewalter/books/blob/master/reviews/Book%20review%20of%20AWS%20Monitoring%20and%20Cloudwatch.pdf)
+8. [Book review – Repeatability, Reliability, and Scalability through GitOps: Continuous delivery and deployment codified By Bryan Feuling (Author)](https://github.com/leewalter/books/blob/master/reviews/Book%20review%20for%20GitOps.pdf)
 ---
 
