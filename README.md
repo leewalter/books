@@ -23,7 +23,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 19. [Kubernetes – An Enterprise Guide: Effectively containerize applications, integrate enterprise systems, and scale applications in your enterprise, 2nd Edition](https://www.amazon.com/review/R1IWRF0RRJAJZH/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
 20. [The Kubernetes Bible: The definitive guide to deploying and managing Kubernetes across major cloud platforms](https://www.amazon.com/review/R3QL5L41I5NW85/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
 21. [Google Cloud Certified Professional Cloud Developer Exam Guide: Modernize your applications using cloud-native services and best practices](https://www.amazon.com/review/R39A17RKLXK9BW/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
-22. []()
+22. [Podman for DevOps: Containerization reimagined with Podman and its companion tools book review](https://www.amazon.com/review/RZQYKWKH5DKCY/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
 23. []()
 24. []()
 25. []()
