@@ -24,8 +24,18 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 20. [The Kubernetes Bible: The definitive guide to deploying and managing Kubernetes across major cloud platforms](https://www.amazon.com/review/R3QL5L41I5NW85/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
 21. [Google Cloud Certified Professional Cloud Developer Exam Guide: Modernize your applications using cloud-native services and best practices](https://www.amazon.com/review/R39A17RKLXK9BW/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
 22. [Podman for DevOps: Containerization reimagined with Podman and its companion tools book review](https://www.amazon.com/review/RZQYKWKH5DKCY/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
-23. []()
-24. []()
-25. []()
----
+23. [Data Engineering with Google Cloud Platform: A practical guide to operationalizing scalable data analytics systems on GCP](https://www.linkedin.com/posts/walterwlee_data-engineering-with-google-cloud-platform-activity-6984035068495187968-HG5w?utm_source=share&utm_medium=member_desktop)
+24. [The Ultimate Guide to Building a Google Cloud Foundation: A one-on-one tutorial with one of Google's top trainers](https://www.linkedin.com/posts/walterwlee_anthos-googlecloud-buy-activity-6982599920415313921-6fJB?utm_source=share&utm_medium=member_desktop)
+25. [Google Cloud Certified Professional Cloud Network Engineer Guide: Design, implement, manage, and secure a network architecture in Google Cloud](https://www.linkedin.com/posts/walterwlee_recommend-cloudjourney-cloudcertification-activity-6983659052182515712-7P88?utm_source=share&utm_medium=member_desktop)
+26. [End-to-End #automation with #kubernetes and #Crossplane: Develop a control plane-based platform for unified #infrastructure, services, and application automation](https://www.linkedin.com/posts/walterwlee_automation-kubernetes-crossplane-activity-6983667910464471040-kS2H?utm_source=share&utm_medium=member_desktop)
+27. [The Definitive Guide to Modernizing Applications on Google Cloud: The what, why, and how of application modernization on Google Cloud](https://www.linkedin.com/posts/walterwlee_googlecloud-googlecloudplatform-googlecloudcertified-activity-6984342428124135424-Bpua?utm_source=share&utm_medium=member_desktop)
+28. []()
+29. []()
+30. []()
+31. []()
+32. []()
+33. []()
+34. []()
+35. []()
+
 
