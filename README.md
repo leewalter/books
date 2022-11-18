@@ -29,7 +29,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 25. [Google Cloud Certified Professional Cloud Network Engineer Guide: Design, implement, manage, and secure a network architecture in Google Cloud](https://www.linkedin.com/posts/walterwlee_recommend-cloudjourney-cloudcertification-activity-6983659052182515712-7P88?utm_source=share&utm_medium=member_desktop)
 26. [End-to-End #automation with #kubernetes and #Crossplane: Develop a control plane-based platform for unified #infrastructure, services, and application automation](https://www.linkedin.com/posts/walterwlee_automation-kubernetes-crossplane-activity-6983667910464471040-kS2H?utm_source=share&utm_medium=member_desktop)
 27. [The Definitive Guide to Modernizing Applications on Google Cloud: The what, why, and how of application modernization on Google Cloud](https://www.linkedin.com/posts/walterwlee_googlecloud-googlecloudplatform-googlecloudcertified-activity-6984342428124135424-Bpua?utm_source=share&utm_medium=member_desktop)
-28. []()
+28. [Cloud Security Handbook](https://www.linkedin.com/posts/walterwlee_cloud-security-handbook-find-out-how-to-activity-6996013396395536384-9Be3?utm_source=share&utm_medium=member_desktop) and (https://www.linkedin.com/posts/walterwlee_cloudsecurity-iam-k8s-activity-6996002828875968512-qNaz?utm_source=share&utm_medium=member_desktop) and (https://www.linkedin.com/posts/walterwlee_cloud-security-handbook-activity-6995634467281272832-C3ws?utm_source=share&utm_medium=member_desktop)
 29. []()
 30. []()
 31. []()
