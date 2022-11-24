@@ -31,7 +31,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 27. [The Definitive Guide to Modernizing Applications on Google Cloud: The what, why, and how of application modernization on Google Cloud](https://www.linkedin.com/posts/walterwlee_googlecloud-googlecloudplatform-googlecloudcertified-activity-6984342428124135424-Bpua?utm_source=share&utm_medium=member_desktop)
 28. [Cloud Security Handbook](https://www.linkedin.com/posts/walterwlee_cloud-security-handbook-find-out-how-to-activity-6996013396395536384-9Be3?utm_source=share&utm_medium=member_desktop) and (https://www.linkedin.com/posts/walterwlee_cloudsecurity-iam-k8s-activity-6996002828875968512-qNaz?utm_source=share&utm_medium=member_desktop) and (https://www.linkedin.com/posts/walterwlee_cloud-security-handbook-activity-6995634467281272832-C3ws?utm_source=share&utm_medium=member_desktop)
 29. [ThousandEyes Annual Cloud Performance Report : 2022 Edition](https://www.linkedin.com/posts/walterwlee_cloud-performance-report-2022-edition-activity-6999250405708763136-N7Hb?utm_source=share&utm_medium=member_desktop)
-30. []()
+30. [AWS FinOps Simplified: Eliminate cloud waste through practical FinOps by Peter Chung (Author)](https://www.amazon.com/review/R3RLUNT3MH3BR2/ref=pe_1098610_137716200_cm_rv_eml_rv0_rv)
 31. []()
 32. []()
 33. []()
