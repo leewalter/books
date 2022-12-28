@@ -35,7 +35,14 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 31. [AWS Certified DevOps Engineer - Professional Certification and Beyond: Pass the DOP-C01 exam and prepare for the real world using case studies and real-life examples by Adam Book](https://www.linkedin.com/posts/walterwlee_aws-awscertified-awscommunity-activity-7007589324011573248-aGXY?utm_source=share&utm_medium=member_desktop)
 32. [#Terraform for #Google Cloud Essential Guide: Learn how to provision #infrastructure in Google Cloud securely and efficiently 1st Edition, by Bernd Nordhausen  (#Author)](https://www.linkedin.com/feed/update/urn:li:activity:7012310290482573313)
 33. [Motion Recruitment TECH SALARY GUIDE 2023](https://www.linkedin.com/posts/walterwlee_clouds-jobs-salary-activity-7012245773941698560-u9jn)
-34. []()
+34. [new 2nd edition of "Solutions Architect's Handbook: Kick-start your career as a solutions architect by learning #architecture design principles and strategies" by Saurabh Shrivastava and Neelanjali (Neeli) Srivastav.](https://www.linkedin.com/posts/walterwlee_architecture-contents-solution-activity-7013347902160871424-lIMe?utm_source=share&utm_medium=member_desktop)
 35. []()
+36. []()
+37. []()
+38. []()
+39. []()
+40. []()
+
+
 
 
