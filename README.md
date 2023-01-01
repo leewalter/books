@@ -36,13 +36,18 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 32. [#Terraform for #Google Cloud Essential Guide: Learn how to provision #infrastructure in Google Cloud securely and efficiently 1st Edition, by Bernd Nordhausen  (#Author)](https://www.linkedin.com/feed/update/urn:li:activity:7012310290482573313)
 33. [Motion Recruitment TECH SALARY GUIDE 2023](https://www.linkedin.com/posts/walterwlee_clouds-jobs-salary-activity-7012245773941698560-u9jn)
 34. [new 2nd edition of "Solutions Architect's Handbook: Kick-start your career as a solutions architect by learning #architecture design principles and strategies" by Saurabh Shrivastava and Neelanjali (Neeli) Srivastav.](https://www.linkedin.com/posts/walterwlee_architecture-contents-solution-activity-7013347902160871424-lIMe?utm_source=share&utm_medium=member_desktop)
-35. []()
+35. [Reading Kate Gawron new Amazon Web Services (AWS) #databases exam book ](https://www.linkedin.com/posts/walterwlee_databases-oracle-old-activity-7015207689223888896-Ktpb?utm_source=share&utm_medium=member_desktop)
 36. []()
 37. []()
 38. []()
 39. []()
 40. []()
-
-
-
-
+41. []()
+42. []()
+43. []()
+44. []()
+45. []()
+46. []()
+47. []()
+48. []()
+49. []()
