@@ -37,7 +37,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 33. [Motion Recruitment TECH SALARY GUIDE 2023](https://www.linkedin.com/posts/walterwlee_clouds-jobs-salary-activity-7012245773941698560-u9jn)
 34. [new 2nd edition of "Solutions Architect's Handbook: Kick-start your career as a solutions architect by learning #architecture design principles and strategies" by Saurabh Shrivastava and Neelanjali (Neeli) Srivastav.](https://www.linkedin.com/posts/walterwlee_architecture-contents-solution-activity-7013347902160871424-lIMe?utm_source=share&utm_medium=member_desktop)
 35. [Reading Kate Gawron new Amazon Web Services (AWS) #databases exam book ](https://www.linkedin.com/posts/walterwlee_databases-oracle-old-activity-7015207689223888896-Ktpb?utm_source=share&utm_medium=member_desktop)
-36. []()
+36. [Just read the new book, "#Security as #Code, #DevSecOps Patterns with #AWS" by BK Sarthak Das and Virginia Chu. It is NOW FREE at #nginx site. I like Chapter 6 most, Fault Injection Test. I just passed Amazon Web Services (AWS) #security #specialty exam and can see many useful concepts in this new book.](https://www.linkedin.com/posts/walterwlee_security-code-devsecops-activity-7021349683092484096-Btnl?utm_source=share&utm_medium=member_desktop)
 37. []()
 38. []()
 39. []()
