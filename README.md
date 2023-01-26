@@ -38,7 +38,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 34. [new 2nd edition of "Solutions Architect's Handbook: Kick-start your career as a solutions architect by learning #architecture design principles and strategies" by Saurabh Shrivastava and Neelanjali (Neeli) Srivastav.](https://www.linkedin.com/posts/walterwlee_architecture-contents-solution-activity-7013347902160871424-lIMe?utm_source=share&utm_medium=member_desktop)
 35. [Reading Kate Gawron new Amazon Web Services (AWS) #databases exam book ](https://www.linkedin.com/posts/walterwlee_databases-oracle-old-activity-7015207689223888896-Ktpb?utm_source=share&utm_medium=member_desktop)
 36. [Just read the new book, "#Security as #Code, #DevSecOps Patterns with #AWS" by BK Sarthak Das and Virginia Chu. It is NOW FREE at #nginx site. I like Chapter 6 most, Fault Injection Test. I just passed Amazon Web Services (AWS) #security #specialty exam and can see many useful concepts in this new book.](https://www.linkedin.com/posts/walterwlee_security-code-devsecops-activity-7021349683092484096-Btnl?utm_source=share&utm_medium=member_desktop)
-37. []()
+37. [Like to learn more about Istio Ambient Mesh ? Then pls. read the short and free ebook, Istio Ambient Explained" by Christian Posta and Lin Sun at https://lnkd.in/gftYV2RQ](https://www.linkedin.com/posts/walterwlee_kubernetes-istio-servicemesh-activity-7024250971241275392-IO6k?utm_source=share&utm_medium=member_desktop)
 38. []()
 39. []()
 40. []()
