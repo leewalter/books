@@ -40,7 +40,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 36. [Just read the new book, "#Security as #Code, #DevSecOps Patterns with #AWS" by BK Sarthak Das and Virginia Chu. It is NOW FREE at #nginx site. I like Chapter 6 most, Fault Injection Test. I just passed Amazon Web Services (AWS) #security #specialty exam and can see many useful concepts in this new book.](https://www.linkedin.com/posts/walterwlee_security-code-devsecops-activity-7021349683092484096-Btnl?utm_source=share&utm_medium=member_desktop)
 37. [Like to learn more about Istio Ambient Mesh ? Then pls. read the short and free ebook, Istio Ambient Explained" by Christian Posta and Lin Sun at https://lnkd.in/gftYV2RQ](https://www.linkedin.com/posts/walterwlee_kubernetes-istio-servicemesh-activity-7024250971241275392-IO6k?utm_source=share&utm_medium=member_desktop)
 38. [2022 Service Mesh Adoption Survey](https://www.linkedin.com/posts/walterwlee_kubernetes-aws-eks-activity-7024254091543408640-WCWp?utm_source=share&utm_medium=member_desktop)
-39. []()
+39. [Just read the new Job report, 2023 U.S. Tech Salary Guide by Motion Recruitment. Packed with useful info, e.g. industry insights, salary data, 2023 forecasts, and more....Recommend read it over and understand what skills the market will pay top $ now ! I saw AI, ML, Clouds, DevOps and Security are in high demands !](https://www.linkedin.com/posts/walterwlee_clouds-hiring-data-activity-7027181549930389504-Z65V?utm_source=share&utm_medium=member_desktop)
 40. []()
 41. []()
 42. []()
