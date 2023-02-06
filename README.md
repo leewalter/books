@@ -41,7 +41,7 @@ by Josh Rosso (Author), Rich Lander (Author), Alex Brand (Author), John Harris (
 37. [Like to learn more about Istio Ambient Mesh ? Then pls. read the short and free ebook, Istio Ambient Explained" by Christian Posta and Lin Sun at https://lnkd.in/gftYV2RQ](https://www.linkedin.com/posts/walterwlee_kubernetes-istio-servicemesh-activity-7024250971241275392-IO6k?utm_source=share&utm_medium=member_desktop)
 38. [2022 Service Mesh Adoption Survey](https://www.linkedin.com/posts/walterwlee_kubernetes-aws-eks-activity-7024254091543408640-WCWp?utm_source=share&utm_medium=member_desktop)
 39. [Just read the new Job report, 2023 U.S. Tech Salary Guide by Motion Recruitment. Packed with useful info, e.g. industry insights, salary data, 2023 forecasts, and more....Recommend read it over and understand what skills the market will pay top $ now ! I saw AI, ML, Clouds, DevOps and Security are in high demands !](https://www.linkedin.com/posts/walterwlee_clouds-hiring-data-activity-7027181549930389504-Z65V?utm_source=share&utm_medium=member_desktop)
-40. []()
+40. [Just read the 2022-12 State of DevOps report at https://lnkd.in/gRphXVD3 Many interesting findings, e.g. p.23 ">50% of respondents reported using multiple cloud providers"](https://www.linkedin.com/posts/walterwlee_devops-devsecops-sitereliabilityengineer-activity-7028254173406126080-SAqp?utm_source=share&utm_medium=member_desktop)
 41. []()
 42. []()
 43. []()
